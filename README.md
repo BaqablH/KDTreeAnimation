@@ -1,3 +1,15 @@
+## Create video after installing manim
+
+For high quality:
+```sh
+python3 -m manim kdtree.py -p --high_quality
+```
+
+For low quality:
+```sh
+python3 -m manim kdtree.py -pl
+```
+
 ![logo](logo/cropped.png)
 
 [![Build Status](https://travis-ci.org/3b1b/manim.svg?branch=master)](https://travis-ci.org/3b1b/manim)
