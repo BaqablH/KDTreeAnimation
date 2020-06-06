@@ -1,4 +1,4 @@
-## Create video after installing manim
+## To create the animation video:
 
 For high quality:
 ```sh
